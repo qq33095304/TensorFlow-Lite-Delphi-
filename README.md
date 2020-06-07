@@ -3,5 +3,7 @@
 
 <div align="left">
     <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/test3.jpg" width="200px"</img> 
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/test4.jpg" width="200px"</img> 
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/test5.jpg" width="200px"</img> 
 </div>
 
