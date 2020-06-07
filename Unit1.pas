@@ -168,7 +168,7 @@ begin
 
       fInterpreter := TfLiteInterpreterCreate(fModel, fInterpreterOptions);
 
-      // ѕараметры / модель могут быть удалены сразу же после создани¤ интерпретатора
+      // параметры / модель могут быть удалены сразу же после создания интерпретатора
       TfLiteInterpreterOptionsDelete(fInterpreterOptions);
       TfLiteModelDelete(fModel);
 
@@ -181,8 +181,8 @@ begin
           (fInterpreter);
 
         // fLiteTensor* TfLiteInterpreterGetInputTensor(const TfLiteInterpreter* interpreter, int32_t input_index);
-        // возвращаема¤ структура TfLiteTensor
-        // пример простой, нет нужды вс® переводить из це
+        // возвращаемая структура TfLiteTensor
+        // пример простой, нет нужды всЁ переводить из це
         // вообще исходники тута https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/c
         { typedef struct TfLiteTensor {
           TfLiteType type;
@@ -236,7 +236,7 @@ begin
 
             fOutputTensor := TfLiteInterpreterGetOutputTensor(fInterpreter, 0);
 
-            // »нфа о тензоре
+            // инфа о тензоре
             // fNumDims := TfLiteTensorNumDims(fOutputTensor);
             // fTensorName := TfLiteTensorName(fOutputTensor);
             // fTensorType := TfLiteTensorType(fOutputTensor);
@@ -254,7 +254,7 @@ begin
 
                 for i := 0 to Length(fOutput) - 1 do
                 begin
-                  // гениальное решение, крутейша¤ конвертаци¤
+                  // гениальное решение, крутейшая конвертация
                   fValue := StrToFloat(Copy(FloatToStr(fOutput[i]), 1, 17));
 
                   if fValue <= 1 then
