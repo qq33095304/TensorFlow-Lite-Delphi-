@@ -9,4 +9,4 @@
 
 # Requirements
 
-Delphi - Win64, 10 Seattle, 10.1 Berlin, 10.2 Tokyo, 10.3 Rio, 10.4 Sydney 
+Delphi Win64 - 10 Seattle, 10.1 Berlin, 10.2 Tokyo, 10.3 Rio, 10.4 Sydney 
