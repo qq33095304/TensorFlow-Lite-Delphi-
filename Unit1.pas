@@ -134,7 +134,7 @@ var
   fTensorType: TfLiteType;
   fTensorByteSize: SIZE_T;
 
-  // размеры входного изображнени¤ mnist 28X28 пикселей
+  // размеры входного изображнения mnist 28X28 пикселей
   fInput: array [0 .. 28 * 28 - 1] of Float32;
   // Output это массив confidence, 10 цифр  0 .. 9
   fOutput: array [0 .. 10 - 1] of Float32;
