@@ -205,13 +205,13 @@ begin
 
         if fInputTensor <> nil then
         begin
-          // »нфа о тензоре
+          // инфа о тензоре
           // fNumDims := TfLiteTensorNumDims(fInputTensor);
           // fTensorName := TfLiteTensorName(fInputTensor);
           // fTensorType := TfLiteTensorType(fInputTensor);
           fTensorByteSize := TfLiteTensorByteSize(fInputTensor);
 
-          // записываем пиксел¤ в fInput,  сверху вниз, слева направо
+          // записываем пикселя в fInput,  сверху вниз, слева направо
           for Y := 0 to Image1.Picture.Bitmap.Height - 1 do
           begin
             for X := 0 to Image1.Picture.Bitmap.Width - 1 do
