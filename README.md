@@ -9,8 +9,8 @@
 
 # Requirements
 
-Delphi 10 Seattle - Win64
-Delphi 10.1 Berline - Win64
-Delphi 10.2 Tokyoe - Win64
-Delphi 10.3 Rioe - Win64
-Delphi 10.4 Sydneye - Win64
+<div align="left">Delphi 10 Seattle - Win64</div>
+<div align="left">Delphi 10.1 Berline - Win64</div>
+<div align="left">Delphi 10.2 Tokyoe - Win64</div>
+<div align="left">Delphi 10.3 Rioe - Win64</div>
+<div align="left">Delphi 10.4 Sydneye - Win64</div>
