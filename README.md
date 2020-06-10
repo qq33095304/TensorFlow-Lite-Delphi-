@@ -7,6 +7,10 @@
     <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/test5.jpg" width="200px"</img> 
 </div>
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 <a href="https://www.tensorflow.org/lite/models/object_detection/overview#get_started">Object Detection</a>
 
 <div align="left">
