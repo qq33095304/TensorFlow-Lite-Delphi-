@@ -2,9 +2,9 @@
 <a href="https://github.com/tensorflow/examples/tree/master/lite/examples/digit_classifier/android">Digit Classifier</a>
 
 <div align="left">
-    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/test3.jpg" width="200px"</img> 
-    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/test4.jpg" width="200px"</img> 
-    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/test5.jpg" width="200px"</img> 
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Digit%20Classifier/screenshots/screenshot1.jpg" width="200px"</img> 
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Digit%20Classifier/screenshots/screenshot2.jpg" width="200px"</img> 
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Digit%20Classifier/screenshots/screenshot3.jpg" width="200px"</img> 
 </div>
 
 &nbsp;
