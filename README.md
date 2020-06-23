@@ -11,7 +11,7 @@
 &nbsp;
 &nbsp;
 
-<a href="">Object Detection</a>
+<a href="https://www.tensorflow.org/lite/models/object_detection/overview#get_started">Object Detection</a>
 
 <div align="left">
     <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Object%20Detection/screenshots/screenshot2.jpg" width="200px"</img> 
@@ -24,7 +24,7 @@
 &nbsp;
 &nbsp;
 
-<a href="https://www.tensorflow.org/lite/models/object_detection/overview#get_started">Face Detection</a>
+<a href="">Face Detection</a>
 
 <div align="left">
     <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Face%20Detection/screenshots/screenshot1.jpg" width="200px"</img> 
