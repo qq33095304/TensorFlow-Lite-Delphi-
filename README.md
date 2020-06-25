@@ -11,19 +11,6 @@
 &nbsp;
 &nbsp;
 
-<a href="https://www.tensorflow.org/lite/models/object_detection/overview#get_started">Object Detection</a>
-
-<div align="left">
-    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Object%20Detection/screenshots/screenshot2.jpg" width="200px"</img> 
-    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Object%20Detection/screenshots/screenshot3.jpg" width="200px"</img> 
-    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Object%20Detection/screenshots/screenshot4.jpg" width="200px"</img> 
-    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Object%20Detection/screenshots/screenshot5.jpg" width="200px"</img> 
-</div>
-
-&nbsp;
-&nbsp;
-&nbsp;
-
 <a href="">Face Detection</a>
 
 <div align="left">
@@ -32,6 +19,18 @@
     <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Face%20Detection/screenshots/screenshot4.jpg" width="200px"</img> 
 </div>
 
+&nbsp;
+&nbsp;
+&nbsp;
+
+<a href="https://www.tensorflow.org/lite/models/object_detection/overview#get_started">Object Detection</a>
+
+<div align="left">
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Object%20Detection/screenshots/screenshot2.jpg" width="200px"</img> 
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Object%20Detection/screenshots/screenshot3.jpg" width="200px"</img> 
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Object%20Detection/screenshots/screenshot4.jpg" width="200px"</img> 
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Object%20Detection/screenshots/screenshot5.jpg" width="200px"</img> 
+</div>
 
 # Requirements
 
