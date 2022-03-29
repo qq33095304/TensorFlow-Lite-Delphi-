@@ -97,21 +97,21 @@ object Form1: TForm1
     Top = 19
     Width = 182
     Height = 13
-    Caption = #1053#1072#1088#1080#1089#1091#1081' '#1094#1080#1092#1077#1088#1082#1091' '#1074' '#1082#1074#1072#1076#1088#1072#1090#1077' '#1074#1085#1080#1079#1091
+    Caption = 'Drow a digit in the square below'
   end
   object Label2: TLabel
     Left = 418
     Top = 19
     Width = 39
     Height = 13
-    Caption = #1052#1086#1076#1077#1083#1100
+    Caption = 'Model'
   end
   object Button1: TButton
     Left = 55
     Top = 339
     Width = 75
     Height = 25
-    Caption = #1054#1095#1080#1089#1090#1080#1090#1100
+    Caption = 'Clear'
     TabOrder = 0
     OnClick = Button1Click
   end
@@ -120,7 +120,7 @@ object Form1: TForm1
     Top = 339
     Width = 75
     Height = 25
-    Caption = #1056#1072#1089#1087#1086#1079#1085#1072#1090#1100
+    Caption = 'Recognize'
     TabOrder = 1
     OnClick = Button2Click
   end
